@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="PowerGov/src/libs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="lib" path="src/jssc-2.8.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="src/pi4j-core.jar"/>
+	<classpathentry exported="true" kind="lib" path="src/log4j-core-2.8.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="src/log4j-api-2.8.2.jar"/>
+	<classpathentry kind="lib" path="src/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="src/jNut-0.2-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="src/org.eclipse.paho.client.mqttv3-1.0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
